@@ -151,9 +151,12 @@ void Error_Handler(void)
 
 
 ## Output  :
+ ![pmc1](https://github.com/Gopika-9266/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/122762773/3af11b5d-8f24-4a4d-addb-2442da6ae291)
  
- 
- 
+ ![pmc2](https://github.com/Gopika-9266/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/122762773/6250a82d-b404-46e5-8b9c-bc3422ead9f3)
+
+ ![pmc3](https://github.com/Gopika-9266/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/122762773/e78c7e5e-94d4-46f8-bcc4-ffaf65e7bbab)
+
  
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
