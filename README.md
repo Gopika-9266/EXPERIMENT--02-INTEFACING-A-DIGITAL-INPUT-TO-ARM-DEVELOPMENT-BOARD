@@ -58,9 +58,6 @@ Dveloped By: Gopika R
 Reg No: 212222240031
 ```
 ```
-NAME : CHARUMATHI R
-REFNO : 212222240021
-
 
 #include "main.h"
 #include "stdbool.h"
